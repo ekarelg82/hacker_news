@@ -1,0 +1,28 @@
+.page{
+  margin: 20px;
+}
+.interactions{
+  text-align: center;
+}
+.table{
+  margin: 20px 0;
+}
+.table-row{
+  display: flex;
+  line-height: 24px;
+  white-space: nowrap;
+  margin: 10px 0;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid #e3e3e3;
+}
+.button-inline{
+  border-width: 0;
+  background: transparent;
+  color: inherit;
+  text-align: inherit;
+  webkit-font-smoothing: inherit;
+  padding: 0;
+  font-size: inherit;
+  cursor: pointer;
+}
